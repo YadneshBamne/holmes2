@@ -4,6 +4,7 @@ import Link from "next/link";
 import Lottie from "lottie-react";
 import Animation from "./Animation - 1723199716467.json";
 import Typewriter from "typewriter-effect";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 export default function Home() {
   return (
@@ -139,9 +140,43 @@ export default function Home() {
             </div>
           </div>
 
-{/* Why use us */}
+          {/* Why use us */}
+          <div className="flex justify-center space-x-10 flex items-center mt-40">
+            <hr className="w-1/4 opacity-7" />
+            <div className="text-2xl">Why Use Holmes</div>
+            <hr className="w-1/4 opacity-7 flex items-center" />
+          </div>
+          <div className="flex justify-around mt-10 ml-10">
+            <div>
+              <Image
+                src={"/handshake.gif"}
+                width={90}
+                height={90}
+                className="rounded-full mb-5"
+              />
+              <h1>Trusted PG's</h1>
+            </div>
 
+            <div>
+              <Image
+                src={"/employee.gif"}
+                width={90}
+                height={90}
+                className="rounded-full mb-5 ml-4"
+              />
+              <h1>Verified Owners</h1>
+            </div>
 
+            <div>
+              <Image
+                src={"/school.gif"}
+                width={90}
+                height={90}
+                className="rounded-full mb-5 ml-9"
+              />
+              <h1>Authorized By Colleges</h1>
+            </div>
+          </div>
         </div>
       </div>
     </main>
