@@ -68,7 +68,7 @@ export default function Home() {
                   </h5>
                 </a>
 
-                <Link href={"/Thane"}>
+                <Link href={"/Vasai"}>
                   <button
                     href="#"
                     class="text-white bg-black hover:bg-gray-900-800 focus:ring-4 focus:outline-none focus:ring-gray-900-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center inline-flex items-center dark:bg-gray-900-600 dark:hover:bg-gray-900-700 dark:focus:ring-gray-900-800  
@@ -88,7 +88,7 @@ export default function Home() {
                   </h5>
                 </a>
 
-                <Link href={"/Thane"}>
+                <Link href={"/Santacruz"}>
                   <button
                     href="#"
                     class="text-white bg-black hover:bg-gray-900-800 focus:ring-4 focus:outline-none focus:ring-gray-900-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center inline-flex items-center dark:bg-gray-900-600 dark:hover:bg-gray-900-700 dark:focus:ring-gray-900-800  
@@ -108,7 +108,7 @@ export default function Home() {
                   </h5>
                 </a>
 
-                <Link href={"/Thane"}>
+                <Link href={"/Kalyan"}>
                   <button
                     href="#"
                     class="text-white bg-black hover:bg-gray-900-800 focus:ring-4 focus:outline-none focus:ring-gray-900-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center inline-flex items-center dark:bg-gray-900-600 dark:hover:bg-gray-900-700 dark:focus:ring-gray-900-800  
@@ -128,7 +128,7 @@ export default function Home() {
                   </h5>
                 </a>
 
-                <Link href={"/Thane"}>
+                <Link href={"/Malad"}>
                   <button
                     href="#"
                     class="text-white bg-black hover:bg-gray-900-800 focus:ring-4 focus:outline-none focus:ring-gray-900-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center inline-flex items-center dark:bg-gray-900-600 dark:hover:bg-gray-900-700 dark:focus:ring-gray-900-800  

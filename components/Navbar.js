@@ -19,11 +19,12 @@ const Navbar = () => {
 
         <div className="ml-9 flex text-center">
           <Link href={"./"}>
-            <ul className="mx-10">Home</ul>
+            <ul className="mx-10 ">Home</ul>
           </Link>
           <Link href={"./aboutus"}>
             <ul className="mx-10 ">About Us</ul>
           </Link>
+          
         </div>
         <button type="button">
           <div class="bg-black flex justify-center items-center mr-5">
