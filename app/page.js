@@ -4,7 +4,8 @@ import Link from "next/link";
 import Lottie from "lottie-react";
 import Animation from "./Animation - 1723199716467.json";
 import Typewriter from "typewriter-effect";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+
+
 
 export default function Home() {
   return (
